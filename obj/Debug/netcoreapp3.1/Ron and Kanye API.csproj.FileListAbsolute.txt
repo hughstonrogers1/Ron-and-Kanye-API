@@ -1,0 +1,15 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\bin\Debug\netcoreapp3.1\Ron and Kanye API.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\bin\Debug\netcoreapp3.1\Ron and Kanye API.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\bin\Debug\netcoreapp3.1\Ron and Kanye API.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\bin\Debug\netcoreapp3.1\Ron and Kanye API.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\bin\Debug\netcoreapp3.1\Ron and Kanye API.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\bin\Debug\netcoreapp3.1\Ron and Kanye API.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\obj\Debug\netcoreapp3.1\Ron and Kanye API.csprojAssemblyReference.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\obj\Debug\netcoreapp3.1\Ron and Kanye API.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\obj\Debug\netcoreapp3.1\Ron and Kanye API.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\obj\Debug\netcoreapp3.1\Ron and Kanye API.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\obj\Debug\netcoreapp3.1\Ron and Kanye API.csproj.CopyComplete
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\obj\Debug\netcoreapp3.1\Ron and Kanye API.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\obj\Debug\netcoreapp3.1\Ron and Kanye API.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\Ron and Kanye API\Ron and Kanye API\obj\Debug\netcoreapp3.1\Ron and Kanye API.genruntimeconfig.cache

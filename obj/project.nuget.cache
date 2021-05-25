@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k60RjOvCi4aze0kqRhrhTEkjNmBpMKR22z7INPROuDe9mB7YXOAq2aBof4FPtjf1+07dMR5rVdqTsWQtDT7vNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hughs\\OneDrive\\Desktop\\Repo\\Ron and Kanye API\\Ron and Kanye API\\Ron and Kanye API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hughs\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
